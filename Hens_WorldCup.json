@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1756679374,
+	"Version": 1756679628,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -118,6 +118,7 @@
 			"Name": "Tier 1",
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
+				"132",
 				"149",
 				"170",
 				"173",
