@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1757167325,
+	"Version": 1757772273,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -146,6 +146,7 @@
 				"36",
 				"38",
 				"279",
+				"261",
 				"69",
 				"76",
 				"80",
@@ -243,6 +244,7 @@
 				"102",
 				"107",
 				"109",
+				"110",
 				"112",
 				"253",
 				"121",
@@ -272,6 +274,7 @@
 				"279",
 				"44",
 				"261",
+				"50",
 				"54",
 				"56",
 				"57",
@@ -470,7 +473,7 @@
 				"36",
 				"38",
 				"80",
-				"90"
+				"96"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -862,7 +865,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1368,12 +1376,14 @@
 				"36",
 				"38",
 				"54",
+				"58",
 				"63",
 				"64",
 				"78",
 				"80",
 				"82",
 				"90",
+				"96",
 				"103",
 				"115"
 			],
@@ -2265,9 +2275,7 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [
-				4
-			],
+			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				497
 			],
@@ -2345,7 +2353,8 @@
 				518
 			],
 			"ItemWhitelist": [
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3138,7 +3147,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"26"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3372,7 +3383,8 @@
 				788
 			],
 			"ItemWhitelist": [
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
