@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1757772273,
+	"Version": 1757965782,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2023,7 +2023,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
+				2,
 				5
 			],
 			"KillerOfferings": [
