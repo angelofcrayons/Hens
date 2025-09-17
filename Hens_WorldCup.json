@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1757965782,
+	"Version": 1758112114,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -384,8 +384,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33",
-				"34"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -454,7 +453,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42",
 				"6"
 			],
 			"BalanceTiers": [
@@ -482,7 +480,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				55,
 				54
 			],
 			"ItemWhitelist": [
@@ -535,8 +532,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"8"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -615,7 +611,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"20"
+				"20",
+				"32"
 			],
 			"BalanceTiers": [
 				0,
@@ -757,7 +754,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"9"
 			],
 			"BalanceTiers": [
@@ -829,8 +825,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"8"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1203,7 +1198,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"32",
 				"34"
 			],
 			"BalanceTiers": [
@@ -1353,8 +1347,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"19"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1448,8 +1441,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"33"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1662,8 +1654,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"5"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1734,8 +1725,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1881,8 +1871,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"12",
-				"39"
+				"8",
+				"12"
 			],
 			"BalanceTiers": [
 				0,
@@ -2179,7 +2169,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6",
+				"8",
 				"16"
 			],
 			"BalanceTiers": [
@@ -2325,8 +2315,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5",
-				"8"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -2763,7 +2752,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
 				"33"
 			],
 			"BalanceTiers": [
@@ -2775,7 +2763,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"206"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2983,7 +2973,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"8"
 			],
 			"BalanceTiers": [
@@ -3133,7 +3122,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42",
 				"9"
 			],
 			"BalanceTiers": [
@@ -3207,8 +3195,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"42"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -3282,7 +3269,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
 				"6"
 			],
 			"BalanceTiers": [
@@ -3356,6 +3342,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"8",
 				"55"
 			],
 			"BalanceTiers": [
