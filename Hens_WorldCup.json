@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1758112114,
+	"Version": 1758148857,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -11,6 +11,7 @@
 				"52",
 				"7",
 				"11",
+				"13",
 				"16",
 				"17",
 				"18",
@@ -28,6 +29,7 @@
 				"267",
 				"46",
 				"49",
+				"50",
 				"51",
 				"262",
 				"55",
@@ -74,6 +76,7 @@
 				"265",
 				"256",
 				"195",
+				"161",
 				"204",
 				"205",
 				"284",
@@ -2265,7 +2268,9 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				4
+			],
 			"IndividualAddonBans": [
 				497
 			],
