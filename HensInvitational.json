@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1767923234,
+	"Version": 1768072449,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -468,7 +468,10 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"170",
+				"181"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"13",
@@ -1209,7 +1212,8 @@
 				213,
 				215,
 				217,
-				216
+				216,
+				210
 			],
 			"ItemWhitelist": [
 				5,
@@ -1513,7 +1517,8 @@
 				4
 			],
 			"IndividualAddonBans": [
-				279
+				279,
+				281
 			],
 			"ItemWhitelist": [
 				0,
@@ -2740,7 +2745,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"206"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3114,7 +3121,9 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				4
+			],
 			"IndividualAddonBans": [
 				738,
 				735,
